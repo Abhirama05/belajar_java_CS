@@ -6,6 +6,6 @@ public class _1_helloWorld {
         System.out.println("World");
         System.out.println("Hello World");
         System.out.print("Hello ");
-        System.out.print("Wolrd");
+        System.out.print("World");
     }
 }
